@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436314472221",
+    "firebase_url": "https://rafaelpushteste-4d6f9.firebaseio.com",
+    "project_id": "rafaelpushteste-4d6f9",
+    "storage_bucket": "rafaelpushteste-4d6f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436314472221:android:142badebcd924e2af2abf4",
+        "android_client_info": {
+          "package_name": "com.rafaelpushteste.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436314472221-ku2nfnmklnmk1ab8hbr4cqmon1np4jnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFrKMEE0OLDaWT81HoFyNHdIUAthAljNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436314472221-ku2nfnmklnmk1ab8hbr4cqmon1np4jnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
